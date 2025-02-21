@@ -27,6 +27,7 @@ Graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/
 [![](https://img.shields.io/badge/RL-stable--baselines3-blue)](https://stable-baselines3.readthedocs.io/en/master/guide/examples.html)
 [![](https://img.shields.io/badge/offlineRL-D4RL-blue)](https://di-engine-docs.readthedocs.io/zh_CN/latest/env_tutorial/d4rl_zh.html)
 [![](https://img.shields.io/badge/RL-%20%20ElegantRL-blue)](https://github.com/AI4Finance-Foundation/ElegantRL)
+[![](https://img.shields.io/badge/LLM-4A90E2?style=flat-square&logo=ai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model)
 
 
 [![](https://img.shields.io/badge/Robotics-pythonRobotics-yellow)](https://atsushisakai.github.io/PythonRobotics/modules/path_planning/bspline_path/bspline_path.html)
