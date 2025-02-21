@@ -18,7 +18,7 @@ Graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Linux-Vim-blue?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 [![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-Keras-f05032?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
