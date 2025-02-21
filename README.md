@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋</h1>
 
 
-<p>Welcome to my page! </br> I'm Tao, AI developer for Autonomous Driving from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Munich, Germany</b>. </p>
+<p> 👋 Welcome to my page! </br> I'm Tao, AI developer for Autonomous Driving from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Munich, Germany</b>. </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhouTao415&theme=radical&show_icons=true)
 
 <!--
 ## Hi there 👋
