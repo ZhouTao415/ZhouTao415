@@ -3,7 +3,7 @@
 
 <p>👋 Welcome to my page!<br>
 I'm Tao, an AI developer specializing in Autonomous Driving from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>China</b>, currently residing in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Munich, Germany</b>.<br>
-Graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/330px-Logo_of_the_Technical_University_of_Munich.svg.png" width="13"/> <b>Technical University of Munich (TUM)</b>.</p>
+Graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/330px-Logo_of_the_Technical_University_of_Munich.svg.png" width="16"/> <b>Technical University of Munich (TUM)</b>.</p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhouTao415&theme=radical&show_icons=true)
