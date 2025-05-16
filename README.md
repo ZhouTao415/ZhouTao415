@@ -33,7 +33,6 @@ Graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/
 [![](https://img.shields.io/badge/Robotics-pythonRobotics-yellow)](https://atsushisakai.github.io/PythonRobotics/modules/path_planning/bspline_path/bspline_path.html)
 [![](https://img.shields.io/badge/Robotics-cppRobotics-yellowgreen)](https://github.com/onlytailei/CppRobotics)
 [![](https://img.shields.io/badge/Robotics-%20%20ModernRobotics-orange)](https://github.com/NxRLab/ModernRobotics)
-[![](https://img.shields.io/badge/Robotics-%20PythonLinearNonlinearControl%20-orange)](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 
 [![](https://img.shields.io/badge/Self--driving-PathPlanning-brightgreen)](https://github.com/zhm-real/PathPlanning)
 [![](https://img.shields.io/badge/Self--driving-MotionPlanning-brightgreen)](https://github.com/zhm-real/MotionPlanning)
